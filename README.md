@@ -9,3 +9,5 @@
 ![network architecture](https://github.com/ansj11/paper-reading/blob/master/imgs/img-2.png)
 ## Learning and Inference
 
+# Pixel CNN++
+将生成模型改进为生成一个分布，先是R通道的分布，再是G和B通道，且均是logistic或高斯分布。
